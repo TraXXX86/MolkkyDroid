@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Bienvenue sur Molkkÿ Droid</string>
+    <string name="app_name">MolkkyDroid</string>
+    <string name="new_party">Nouvelle partie</string>
+    <string name="resume_party">Reprendre la partie</string>
+    <string name="options">Options</string>
+
+</resources>
